@@ -1,7 +1,12 @@
 ## SSDragCard
 卡片拖动 以及 菜单类 代码展示
 ## 效果展示稍后上传
+（gif录制的真是low到爆了，难道是我选的背景色不对？）  
+卡片  
+![卡片](https://github.com/xfdev/SSDragCard/blob/master/readmeGif/card.gif)
 
+菜单  
+![菜单](https://github.com/xfdev/SSDragCard/blob/master/readmeGif/menu.gif)
 
 ## 一些介绍
 `SSMenuViewController`主页面，包括卡片（`SSCardView`）拖动和动画菜单（`SSMenuView`）两大模块:  
